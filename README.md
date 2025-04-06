@@ -20,7 +20,7 @@ Download jpnb file and run using notebook!
 - scikit-learn
 - numpy
 - tqdm
-- seaborn (optional, for nicer visualizations)
+- seaborn
 
 Install dependencies:
 
