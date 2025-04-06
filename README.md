@@ -11,6 +11,7 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 
 ###  Requirements
 
+- Jupyter Notebook
 - Python 3.9+
 - PyTorch >= 2.0 (With Cuda support)
 - torchvision
@@ -25,5 +26,9 @@ Install dependencies:
 PyTorch
 https://pytorch.org/get-started/locally/
 
+
 ```bash
-pip install torchvision matplotlib scikit-learn tqdm seaborn
+pip install torchvision matplotlib scikit-learn tqdm seaborn notebook
+
+Download jpnb file and run using notebook!
+
